@@ -1,4 +1,4 @@
-# Simple discord music bot
+# Discord Bot
 > Discord Bot using javascript.
 
 ## Install
